@@ -1,0 +1,7 @@
+level1: KRYPTONISGREAT
+
+level2: ROTTEN
+
+level3: CAESARISEASY
+
+level4: 
